@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-code-with-quarkus-i1jh
     app.kubernetes.io/part-of: another-build-custom
-  name: devfile-sample-code-with-n3x3
+  name: devfile-sample-code-with-7cus
 spec:
   path: /
   port:
